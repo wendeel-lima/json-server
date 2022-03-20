@@ -1,0 +1,53 @@
+{
+  "operacoes": [
+    {
+      "id": 1,
+      "data": "texto",
+      "tipo": "Entrada",
+      "categoria": "salario",
+      "valor": 1234
+    },
+    {
+      "id": 2,
+      "data": "texto",
+      "tipo": "Entrada",
+      "categoria": "salario",
+      "valor": 1234
+    },
+    {
+      "id": 3,
+      "data": "texto",
+      "tipo": "Entrada",
+      "categoria": "salario",
+      "valor": 1234
+    },
+    {
+      "id": 4,
+      "data": "texto",
+      "tipo": "Entrada",
+      "categoria": "salario",
+      "valor": 1234
+    },
+    {
+      "id": 5,
+      "data": "texto",
+      "tipo": "Entrada",
+      "categoria": "salario",
+      "valor": 1234
+    },
+    {
+      "id": 6,
+      "data": "texto",
+      "tipo": "Entrada",
+      "categoria": "salario",
+      "valor": 1234
+    },
+    {
+      "id": 7,
+      "data": "texto",
+      "tipo": "Entrada",
+      "categoria": "salario",
+      "valor": 1234
+    }
+  ]
+}
